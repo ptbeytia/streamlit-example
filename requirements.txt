@@ -1,4 +1,4 @@
 streamlit==1.19.0
 pandas==1.5.3
-judini-codegpt==0.2.0
+judini==0.2.0
 python-dotenv==0.21.1
